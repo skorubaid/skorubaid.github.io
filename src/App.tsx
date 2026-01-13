@@ -17,7 +17,7 @@ export default function App() {
               Skoruba Identity
             </h1>
             <p className="mt-6 text-base uppercase tracking-[0.2em] text-white/75 sm:text-lg">
-              Identity, OpenID Connect, OAuth2, and modern authentication for
+              Identity, OpenID Connect, OAuth 2.1, and modern authentication for
               .NET
             </p>
             <div className="mt-8 flex flex-wrap items-center justify-center gap-3 text-xs font-semibold uppercase tracking-[0.18em] text-white/70">
@@ -25,7 +25,7 @@ export default function App() {
                 OIDC
               </span>
               <span className="rounded-full border border-white/30 px-4 py-2">
-                OAuth2
+                OAuth 2.1
               </span>
               <span className="rounded-full border border-white/30 px-4 py-2">
                 OSS
