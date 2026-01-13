@@ -1,1 +1,1 @@
-# skorubaid.github.io
+# https://skoruba.id
